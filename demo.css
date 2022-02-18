@@ -1,0 +1,16 @@
+
+body
+    {background-color: linen;}
+h1{
+    color:chartreuse;
+    margin-left:20px;
+    
+}
+#para1{
+    text-align: center;
+    color:magenta;
+}
+.para2{
+    text-align: end;
+    color:maroon
+}
